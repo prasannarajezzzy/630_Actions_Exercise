@@ -8,4 +8,3 @@ int main()
 
     cout << "hello world" << endl;
     cout << "The sum is " << a + b << endl;
-    return 0;}
